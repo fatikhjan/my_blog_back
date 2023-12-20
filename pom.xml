@@ -14,7 +14,7 @@
     <name>my_blog_back</name>
     <description>my_blog_back</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
